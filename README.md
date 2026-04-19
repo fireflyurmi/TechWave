@@ -1,3 +1,20 @@
+<div align="center">
+
+# 🎙️ TechWave - Professional Tech Podcast
+### *Riding the Current of Innovation & Technology.*
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Responsive](https://img.shields.io/badge/Mobile_Friendly-Optimized-9cf?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+
+*TechWave is a high-performance, dark-themed landing page designed to showcase tech podcasts. Featuring sleek animations, structured episode grids, and a seamless user experience.*
+
+</div>
+
+---
+
+
 # 🚀 TechWave - Professional Tech Podcast Landing Page
 
 TechWave is a modern, high-conversion landing page designed for technology-focused podcasts and blogs. Built with a focus on dark-themed aesthetics and responsive design, it provides a premium experience for tech enthusiasts.
