@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="https://cdn-icons-png.flaticon.com/512/3039/3039401.png" width="100" />
+   
 # 🎙️ TechWave - Professional Tech Podcast
 ### *Riding the Current of Innovation & Technology.*
 
