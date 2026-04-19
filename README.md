@@ -13,11 +13,6 @@
 
 ---
 
-### 🔗 Live Demo
-[Explore TechWave Live](https://fireflyurmi.github.io/tech-wave/)
-
----
-
 ### 📸 Project Preview
 ![Project Preview](./preview.png)
 
