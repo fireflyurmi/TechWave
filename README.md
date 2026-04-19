@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/3592/3592813.png" width="80" />
+<img src="https://i.ibb.co/hCH4DdB/techwave-banner-2.png" alt="TechWave Podcast Banner" width="100%" />
    
 # 🎙️ TechWave - Professional Tech Podcast
 ### *Riding the Current of Innovation & Technology.*
